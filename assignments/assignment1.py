@@ -1,0 +1,2 @@
+def palindrone(word):
+    pass
