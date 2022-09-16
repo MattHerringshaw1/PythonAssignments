@@ -8,4 +8,8 @@ def palindrone(word):
 
 adapt
 A
+input(0-)
 
+def ...
+a = 11
+b = 12
